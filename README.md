@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Febri</h1>
 <h3 align="center">I'm a full software developer with strong problem solving skills and proven experience creating and designing software in a test-driven environment.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=newfebriwisnu&label=Profile%20views&color=0e75b6&style=flat" alt="newfebriwisnu" /> </p>
-
 - 👨‍💻 All of my projects are available at <a href="https://newfebriwisnu.github.io/" target="_blank"><b>newfebriwisnu.github.io</b></a>
 
 - 📫 How to reach me **newfebriwisnu@gmail.com**
@@ -21,3 +19,5 @@
 
 <a href="https://github.com/newfebriwisnu?tab=repositories" title="Febri Wisnu F"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newfebriwisnu&bg_color=151515&text_color=9f9f9f&title_color=fff&layout=compact" /></a>
 <a href="https://github.com/newfebriwisnu" title="Febri Wisnu F"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=newfebriwisnu&show_icons=true&theme=gradient&title_color=fff&icon_color=5C9FF0&text_color=9f9f9f&bg_color=151515" /></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=newfebriwisnu&label=Profile%20views&color=151515&style=flat" alt="newfebriwisnu" /> </p>
