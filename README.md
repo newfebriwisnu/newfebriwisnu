@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newfebriwisnu&label=Profile%20views&color=0e75b6&style=flat" alt="newfebriwisnu" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://newfebriwisnu.github.io/](https://newfebriwisnu.github.io/)
+- 👨‍💻 All of my projects are available at <a href="https://newfebriwisnu.github.io/" target="_blank"><b>newfebriwisnu.github.io</b></a>
 
 - 📫 How to reach me **newfebriwisnu@gmail.com**
 
