@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Febri</h1>
-<h3 align="center">I'm a full software developer with strong problem solving skills and proven experience creating and designing software in a test-driven environment.</h3>
 
 - 👨‍💻 All of my projects are available at <a href="https://newfebriwisnu.github.io/" target="_blank"><b>newfebriwisnu.github.io</b></a>
 
